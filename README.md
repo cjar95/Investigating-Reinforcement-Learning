@@ -25,6 +25,6 @@ The Taxi Problem python file runs on python 3.9.12
 
 The Cart-Pole Problem, Frozen Lake Problem & Temporal Difference python files run on python 3.7.13
 
-Python 3.7.13 was necessary to use the TensorFlow library. To run both create a new environment following the tutorial below.
+Python 3.7.13 was necessary to use the TensorFlow library. To run both successfully one must create a new environment following the tutorial below. Once this is accomplished all python files will run correctly and can run simultaneously.
 
 **To run python 3.7.13 please follow this tutorial https://www.guru99.com/download-install-tensorflow.html
