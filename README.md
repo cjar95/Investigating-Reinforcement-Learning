@@ -1,5 +1,5 @@
 # Investigating-Reinforcement-Learning
-SIT 215 Computational Intelligence, OpenAI Gym Environments
+SIT 215 Computational Intelligence: OpenAI Gym Environments Final Project
 
 Included:
 -The Taxi Problem python file & jupyter notebook
