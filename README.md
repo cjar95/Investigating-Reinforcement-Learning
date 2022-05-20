@@ -1,7 +1,7 @@
 # Investigating-Reinforcement-Learning
 SIT 215 Computational Intelligence: OpenAI Gym Environments Final Project Code
 
-#Environments Used:
+# Environments Used:
 
 Three OpenAI Gym environments were utilised https://www.gymlibrary.ml/
 
