@@ -9,5 +9,6 @@ Included:
 
 Note:
 The Taxi Problem python file runs on python 3.9.12
+
 The Cart-Pole Problem, Frozen Lake Problem & Temporal Difference python files run on python 3.7.13
 
