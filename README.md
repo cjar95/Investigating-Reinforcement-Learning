@@ -5,6 +5,12 @@ SIT 215 Computational Intelligence: OpenAI Gym Environments Final Project Code
 
 Three OpenAI Gym environments were utilised https://www.gymlibrary.ml/
 
+-Taxi V3
+
+-Cart-Pole V1
+
+-Frozen Lake V1
+
 
 ## Included:
 -The Taxi Problem python file & jupyter notebook
